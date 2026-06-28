@@ -1,5 +1,3 @@
-# SCT_DA_TASK2
-
 ## Data Cleaning and Preparation Using Python (Pandas)
 
 ### Objective
