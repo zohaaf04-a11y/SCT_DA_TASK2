@@ -1,4 +1,4 @@
-## Data Cleaning and Preparation Using Python (Pandas)
+##  Data Cleaning & Exploratory Data Analysis using Python
 
 ### Objective
 
